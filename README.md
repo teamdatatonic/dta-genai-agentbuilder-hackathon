@@ -1,4 +1,5 @@
 ![plot](./images/DTA_Colours_BOT02.jpg)
+
 # Unleash Your Inner AI Innovator: Build a Next-Gen Customer Agent with Google Cloud
 This hackathon invites you to create a cutting-edge customer service agent powered by Google Cloud Vertex AI Agent Builder. This no-code solution allows you to rapidly prototype your generative AI agent, transforming the way you interact with your customers.
 # Work Solo or Assemble Your Dream Team:
@@ -14,6 +15,8 @@ Whether you're a lone wolf or prefer to collaborate, this hackathon welcomes bot
 Your goal extends beyond building a technically proficient agent. We challenge you to create an advanced agent that leverages documents to answer your customers' questions while simultaneously considering the following:
 - Economic Impact: Demonstrate how your AI agent will generate revenue or optimize costs for your business.
 - Customer Experience Improvement: Highlight how your agent will enhance customer satisfaction and loyalty.
+
+![plot](./images/whiteboard01.jpg)
 
 # Whiteboard Your Vision, Conquer the Challenge
 The hackathon unfolds in two phases:
