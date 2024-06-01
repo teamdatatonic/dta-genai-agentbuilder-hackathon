@@ -33,6 +33,9 @@ The hackathon unfolds in two phases:
   - Collaborative Development: The AI Architect, Prompt Master, and the QA Champion work together under the project manager's supervision to build the solution.
 
 # The Grand Finale: Unveiling the Champion Agent
+
+![plot](./images/GenAI_Hackathon_Finale.gif)
+
 The hackathon culminates with the evaluation of the best agent solution. We will assess your project across all aspects, including:
 - Business Impact: Potential for revenue generation or cost optimization.
 - Project Management: Efficiency and effectiveness in project execution.
