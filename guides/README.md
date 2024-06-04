@@ -96,16 +96,16 @@ Go back to your Agent and replace the placeholders in the Instructions section w
 
 Test your Agent by selecting it and asking a meaningful question.
 
-[!plot](/images/011_AgentBuilder_TestAgentWithTool.png)
+![plot](/images/011_AgentBuilder_TestAgentWithTool.png)
 
 Expand the Tool window to see the Query in the Tool Input section and the Answer in the Tool output section
 
-[!plot](/images/012_AgentBuilder_TestAgentWithTool.png)
+![plot](/images/012_AgentBuilder_TestAgentWithTool.png)
 
 
 # Congrats!!! You have built a fully working GenAI-powered Agent for your company!!!
 
-[plot](/images/GenAI_AgentBuilder_Phase1.gif)
+![plot](/images/GenAI_AgentBuilder_Phase1.gif)
 
 # Want more? Have you thought about Multi-Agents systems with Specialized Agent?
 
