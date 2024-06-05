@@ -5,6 +5,7 @@ As you delve into crafting your AI agent, understanding its configuration is par
 
 # Create a Google Cloud Storage Bucket that will contain the PDF documents that will be ingested in the Agent KBs.
 - Create a bucket with a unique name
+- Leave everything else as default like enforce public access prevention.
 - Inside create two folders, one for financial documents and one for technical documents
 - Upload you documents in the appropriate folder. You find the documents in this repo in the docs folder
 
