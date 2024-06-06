@@ -17,8 +17,11 @@ Whether you're a lone wolf or prefer to collaborate, this hackathon welcomes bot
 # Beyond Efficiency: Building a Financially Impactful Solution
 
 Your goal extends beyond building a technically proficient agent. We challenge you to create an advanced agent that leverages documents to answer your customers' questions while simultaneously considering the following:
+
 - Economic Impact: Demonstrate how your AI agent will generate revenue or optimize costs for your business.
 - Customer Experience Improvement: Highlight how your agent will enhance customer satisfaction and loyalty.
+
+Your system could include multiple Agents that interact with each other to provide the best customer support. You can think about how traditional call centers are organized.
 
 # Whiteboard Your Vision, Conquer the Challenge
 

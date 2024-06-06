@@ -22,13 +22,14 @@ As you delve into crafting your AI agent, understanding its configuration is par
 - Goal: This is the context given to Gemini. Read the documentation to find out how to write an effective Goal [https://cloud.google.com/dialogflow/vertex/docs/concept/goals]
 - Specific Instructions: Use well designed, concise instructions to describe the Agent behavior. Read the documentation to find out how to write instructions [https://cloud.google.com/dialogflow/vertex/docs/concept/goals]
 
-- Use placeholders for AGENTS and/or TOOLS at this stage. You can populate them afterwords. 
+- Each instruction starts with a bullet point. You can add sub-instructions using indentation.
+- Use placeholders for AGENTS and/or TOOLS at this stage. You can populate them afterwords. They allow you to temporary save your Agent configuration before have created the other Agents/Tools
 
 - Wanna be a Pro? Think about a possible instructions that can prevent your Agent to hallucination behavoiurs. Hint... Out of Context matters.
 
 # Configure Agent Tool and Data store
 
-Tools can be used by Agent to perform one specific operation. In our scenario we want to retrieve information out from a knowledge base given a specific user query. For this reason we will use a Data store tool which can be used by an Agent App for answers to end-user's questions from your data stores (indeed your KB). The data store type can be one of the following:
+Tools can be used by Agent to perform one specific operation. Gemini, the Google latest Large Multimodal Model family interacts with the external world via Tools. This is how Agent Builder implement the "Act" in the ReAct prompt engineering technique (Reasoning & Acting = ReAct). In our scenario we want to retrieve information out from a knowledge base given a specific user query. For this reason we will use a Data store tool which can be used by an Agent App for answers to end-user's questions from your data stores (indeed your KB). The data store type can be one of the following:
 
 - PUBLIC_WEB: A data store that contains public web content.
 - UNSTRUCTURED: A data store that contains unstructured private data like PDFs
